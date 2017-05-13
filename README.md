@@ -49,7 +49,6 @@ SetupTools：http://setuptools.readthedocs.io/en/latest/
 
 Cookiecutter: 
     https://www.pydanny.com/cookie-project-templates-made-easy.html
-
     https://cookiecutter-pypackage.readthedocs.io/en/latest/
 
 
