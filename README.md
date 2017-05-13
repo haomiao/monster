@@ -48,8 +48,8 @@ Tool Recommendations: https://packaging.python.org/current/
 SetupTools：http://setuptools.readthedocs.io/en/latest/
 
 Cookiecutter: 
-    https://www.pydanny.com/cookie-project-templates-made-easy.html
-    https://cookiecutter-pypackage.readthedocs.io/en/latest/
+    https://www.pydanny.com/cookie-project-templates-made-easy.html \n
+    https://cookiecutter-pypackage.readthedocs.io/en/latest/
 
 
 How to begin a python project and some useful tools
@@ -65,6 +65,7 @@ How to begin a python project and some useful tools
 6. Tox: testing standardization, edit the tox.ini as it's configuration
 
 Others：
+================
 1. git、github、git-flow version control and project management flow
 2. TravisCI: continuous testing integration, edit the .travis.yml as it's configurations
 3. Cookiecutter: automate these steps when starting your next project, in fact, the tool can be do many things as you done before
